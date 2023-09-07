@@ -1,3 +1,3 @@
-# C-Pro-1
+# c-pro-1
 
 This is my portfolio site.
